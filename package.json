@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1",
+    "http-errors": "^2.0.0",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "Vincent Anjiri",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
